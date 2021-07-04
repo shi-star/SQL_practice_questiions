@@ -1,6 +1,12 @@
-# Problem set 06
+# Problem set 06 <br>
+
+## Schema<br>
+
+![image](https://user-images.githubusercontent.com/61353323/124394025-14ef1380-dd1b-11eb-84a0-6d3519438842.png)
+
 
 ![Query_Set_06](https://user-images.githubusercontent.com/61353323/124393943-a9a54180-dd1a-11eb-9745-21470112139f.png)
+
 Each of the following case study questions can be answered using a single SQL statement:
 1.	What is the total amount each customer spent at the restaurant?
 2.	How many days has each customer visited the restaurant?
