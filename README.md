@@ -1,1 +1,1 @@
-# SQL_practince_questiions
+# SQL_practice_questiions
