@@ -8,5 +8,4 @@
 6.What was the maximum number of pizzas delivered in a single order?<br>
 7.For each customer, how many delivered pizzas had at least 1 change and how many had no changes?<br>
 8.How many pizzas were delivered that had both exclusions and extras?<br>
-9.What was the total volume of pizzas ordered for each hour of the day?<br>
-10.What was the volume of orders for each day of the week?<br>
+
